@@ -1,14 +1,14 @@
 #task1
-print("Hello , World!")
+print("Hello , World!\n")
 
 #task2
 print("Sowjanya Chandran")
 name="sowjanya Chandran"
-print("Name:",name)
+print("Name:\n",name)
 
 #task3
 quote = "Live Your Life As You Like."
-print(f'"{quote}"')
+print(f'"{quote}"\n')
 
 #task4
 message = """Hello Sowjanya,
@@ -31,7 +31,7 @@ print("Bananas\t\t5\t$5")
 print("Milk\t\t1\t$3")
 print("----------------------------")
 print("Total\t\t\t$12")
-print("===========================")
+print("===========================\n")
 
 # task 7 5 Times Table using \t
 print("5 Times Table")
@@ -45,7 +45,7 @@ print("*  O   O  *")
 print("*    ^    *")
 print("*  \\___/  *")
 print(" *       * ")
-print("   *****   ")
+print("   *****  \n ")
 
 # task 9 Banner Program
 print("***************************")
@@ -56,22 +56,22 @@ print("***************************")
 
 print("\n===========================")
 print("=     Happy Learning!     =")
-print("===========================")
+print("===========================\n")
 
 # task 10 Using sep parameter in print()
 print("Apple", "Banana", "Cherry", sep=" | ")
 print("Python", "Django", "MySQL", sep=" ~ ")
-print("Sowjanya", "Learning", "React", sep=" *** ")
+print("Sowjanya", "Learning", "React", sep=" ***\n ")
 
 # task 11 Using end to print two sentences in the same line
 print("This is the first sentence.", end=" ")
-print("This is the second sentence.")
+print("This is the second sentence.\n")
 
 # task 12 Using f-string for dynamic formatting
 name = "Sowjanya"
 age = 25
 language = "Python"
-print(f"Hello, my name is {name}. I am {age} years old and I love {language}!")
+print(f"Hello, my name is {name}. I am {age} years old and I love {language}!\n")
 
 # task 13 Countdown Program
 print("5")
@@ -79,4 +79,4 @@ print("4")
 print("3")
 print("2")
 print("1")
-print("Go!")
+print("Go!\n")
