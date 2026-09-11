@@ -21,6 +21,8 @@ print("ShowTime:\t 7:30PM")
 print("Seat No:\t A12")
 print("Price:\t $12.50")
 print("*************************")
+print("Enjoy Your Movie! 🍿🎥")
+print("*************************")
 
 
 

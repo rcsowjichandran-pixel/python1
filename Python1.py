@@ -61,10 +61,10 @@ print("===========================\n")
 # task 10 Using sep parameter in print()
 print("Apple", "Banana", "Cherry", sep=" | ")
 print("Python", "Django", "MySQL", sep=" ~ ")
-print("Sowjanya", "Learning", "React", sep=" ***\n ")
+print("Sowjanya", "Learning", "React", sep=" ***")
 
 # task 11 Using end to print two sentences in the same line
-print("This is the first sentence.", end=" ")
+print("\nThis is the first sentence.", end=" ")
 print("This is the second sentence.\n")
 
 # task 12 Using f-string for dynamic formatting
