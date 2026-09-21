@@ -50,7 +50,7 @@ modify_variable()
 
 # Trying to access 'message' outside the function
 try:
-    print("Outside function:", message)
+    print("Outside function:", eval("message"))
 except NameError as e:
     print("Outside function error:", e)
 
