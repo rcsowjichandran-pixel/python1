@@ -1,4 +1,4 @@
 # 
 
 string="python"
-print(string[::-])
+print(string[::-1])
