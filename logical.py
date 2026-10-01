@@ -151,7 +151,7 @@ for num in numbers:
 print("Frequency of each element:")
 for key, value in frequency.items():
     print(f"{key} -> {value}")
-Another Method
+# Another Method
 from collections import Counter
 
 numbers = [10, 20, 10, 30, 20, 40, 10, 30, 50]
@@ -172,7 +172,7 @@ for char in text:
 print("Character Frequency:")
 for key, value in frequency.items():
     print(f"'{key}' -> {value}")
-Another Method
+# Another Method
 from collections import Counter
 text = "banana"
 frequency = Counter(text)
